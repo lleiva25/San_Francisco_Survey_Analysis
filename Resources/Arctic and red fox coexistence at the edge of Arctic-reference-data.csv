@@ -1,0 +1,23 @@
+tag-id,animal-id,animal-taxon,deploy-on-date,deploy-off-date,animal-group-id,animal-life-stage,animal-sex,deployment-id,duty-cycle,manipulation-type,tag-manufacturer-name,tag-model,tag-readout-method
+M694011,U,Vulpes lagopus,2017-05-09 00:00:00.000,2017-06-15 22:00:00.000,AFM,adult,m,U2017_M694011,1 fix per 2h,none,Telonics,Iridium satellite collar 4270,satellite
+M695855,MM,Vulpes lagopus,2017-05-10 00:00:00.000,2017-06-15 22:00:00.000,AFM,adult,m,MM2017_M695855,1 fix per 2h,none,Telonics,Iridium satellite collar 4170,satellite
+F695853,AB,Vulpes vulpes,2017-05-10 00:00:00.000,2017-06-15 08:00:00.000,RFF,adult,f,AB2017_F695853,1 fix per 2h,none,Telonics,Iridium satellite collar 4170,satellite
+M695496,JF,Vulpes vulpes,2017-05-10 00:00:00.000,2017-06-14 04:00:00.000,RFM,adult,m,FJ2017_M695496,1 fix per 2h,none,Telonics,Iridium satellite collar 4270,satellite
+M695476,LR,Vulpes vulpes,2017-05-10 06:00:00.000,2017-06-15 22:00:00.000,RFM,adult,m,LR2017_M695476,1 fix per 2h,none,Telonics,Iridium satellite collar 4270,satellite
+M695476,LR,Vulpes vulpes,2018-04-10 00:00:00.000,2018-06-15 04:00:00.000,RFM,adult,m,LR2018_M695476,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4270,satellite
+M701535,Gi,Vulpes lagopus,2018-04-16 00:00:00.000,2018-06-03 15:00:00.000,AFM,adult,m,Gi2018_M701535,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+F701543,W,Vulpes vulpes,2018-04-19 00:00:00.000,2018-06-07 04:30:00.000,RFF,adult,f,W2018_F701543,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4270,satellite
+1M701573,Gh,Vulpes lagopus,2018-04-19 20:59:00.000,2018-05-19 05:59:00.000,AFM,adult,m,Gh2018_1M701573,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+M701529,GK,Vulpes lagopus,2018-04-22 00:00:00.000,2018-06-15 18:00:00.000,AFM,adult,m,GK2018_M701529,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+F701542,Br,Vulpes vulpes,2019-04-08 03:00:00.000,2019-05-05 22:30:00.000,RFF,adult,f,Br2019_F701542,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4270,satellite
+F701540,S,Vulpes vulpes,2019-04-10 00:00:00.000,2019-06-15 18:00:00.000,RFF,adult,f,S2019_F701540,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4270,satellite
+F701533,A,Vulpes vulpes,2019-04-10 00:00:00.000,2019-06-15 18:00:00.000,RFF,adult,f,A2019_F701533,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+M701574,LR,Vulpes vulpes,2019-04-10 13:30:00.000,2019-06-15 06:00:00.000,RFM,adult,m,LR2019_M701574,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4270,satellite
+F701532,I,Vulpes vulpes,2019-04-11 00:00:00.000,2019-06-15 18:00:00.000,RFF,adult,f,I2019_F701532,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+F701536,B,Vulpes lagopus,2019-04-19 09:00:00.000,2019-06-15 18:00:00.000,AFF,adult,f,B2019_F701536,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+M701531,M,Vulpes lagopus,2019-04-25 04:30:00.000,2019-06-15 18:00:00.000,AFM,adult,m,M2019_M701531,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+2M701573,DL,Vulpes lagopus,2019-05-01 10:30:00.000,2019-06-15 18:00:00.000,AFM,adult,m,DL2019_2M701573,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+F701544,T,Vulpes lagopus,2019-05-03 00:00:00.000,2019-06-15 12:00:00.000,AFF,adult,f,T2019_F701544,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4270,satellite
+F701533,A,Vulpes vulpes,2020-03-15 00:00:00.000,2020-06-15 18:00:00.000,RFF,adult,f,A2020_F701533,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+F701532,I,Vulpes vulpes,2020-03-15 00:00:00.000,2020-06-15 18:00:00.000,RFF,adult,f,I2020_F701532,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4170,satellite
+M701574,LR,Vulpes vulpes,2020-03-15 03:00:00.000,2020-06-15 18:00:00.000,RFM,adult,m,LR2020_M701574,1 fix per 1.5h,none,Telonics,Iridium satellite collar 4270,satellite
